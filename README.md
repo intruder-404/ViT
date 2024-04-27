@@ -12,7 +12,7 @@ Patch size (16, 16) "An image is worth 16 words"
 Builds on transformer
 
 
-![vit](vit_architecture.png)
+![vit](vit_architecture.jpg)
 
 
 I might migrate completely to pytorch
