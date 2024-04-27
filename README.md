@@ -1,6 +1,6 @@
 # ViT
 
-For transformer, visit https://github.com/intruder-404/Transformer-Impl
+For transformer, visit https://github.com/intruder-404/Transformer
 
 
 The paper is here: https://proceedings.neurips.cc/paper_files/paper/2015/file/33ceb07bf4eeb3da587e268d663aba1a-Paper.pdf
